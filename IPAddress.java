@@ -4,6 +4,6 @@ class IPAddress
 public static void main(String args[]) throws Exception
 {
 System.out.println(InetAddress.getLocalHost());
-  System.out.println("lol lol lol");
+  System.out.println("i had a dove");
 }
 }
